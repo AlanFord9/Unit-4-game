@@ -1,6 +1,7 @@
 body {
     background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
 }
 
 #directions-text {
@@ -21,7 +22,7 @@ h1 {
 #total-score {
     background-color: teal;
     color: white;
-    font-size: larger;
+    font-size: 50px;
     height: 120px;
 }
 
