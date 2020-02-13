@@ -21,4 +21,4 @@ Simply open the application in your web browser, and follow the instructions pro
 
 This project was built and is maintained by Alan Ford.
 
-Access the app here: https://alanford9.github.io/Psychic-Game/
+Access the app here: https://alanford9.github.io/Unit-4-game/
